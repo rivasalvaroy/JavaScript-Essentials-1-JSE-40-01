@@ -21,3 +21,16 @@ The main goal of the course is to guide you from a state of complete programming
 | **05** | **Functions**                                           | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_05/examples">Examples</a>      | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_05/challenges">Exercises</a> |
 | **06** | **Errors, exceptions, debugging, and troubleshooting**  | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_06/examples">Examples</a>      | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_06/challenges">Exercises</a> |
 |        |
+
+## Running simple scripts with <a href="https://nodejs.org/en">Node.js</a>
+
+<a href="https://nodejs.org/en"><img src="./images/nodejs.png"></a>
+
+<p></p>
+## Local Web Server with Live Server (<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Extension VSCode/VSCodium</a>)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="./images/live_server.png"></a>
+
+<p></p>
+### <a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="./images/firefox.png"></a>
