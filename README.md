@@ -26,11 +26,10 @@ The main goal of the course is to guide you from a state of complete programming
 
 <a href="https://nodejs.org/en"><img src="./images/nodejs.png"></a>
 
-<p></p>
 ## Local Web Server with Live Server (<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Extension VSCode/VSCodium</a>)
 
 <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="./images/live_server.png"></a>
 
-<p></p>
 ### <a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a>
+
 <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="./images/firefox.png"></a>
