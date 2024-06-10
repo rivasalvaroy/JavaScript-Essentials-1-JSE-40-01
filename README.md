@@ -4,7 +4,7 @@ Examples and exercises from the JavaScript Essentials 1 course (Edube Interactiv
 
 ## <a href="https://edube.org/study/jse1">OPENEDG</a> (About this course)
 
-<img src="./images/jse1.png">
+<a href="https://edube.org/study/jse1"><img src="./images/jse1.png"></a>
 
 <p>This course is the first in a 2-course series – it will prepare you for the <a href="https://edube.org/study/jse1">JSE – Certified Entry-Level JavaScript Programmer</a> certification exam (JSE-40-01).</p>
 
