@@ -2,9 +2,9 @@
 
 Examples and exercises from the JavaScript Essentials 1 course (Edube Interactive/ OpenEDG JS Institute)
 
-## OPENEDG (About this course)
+## <a href="https://edube.org/study/jse1">OPENEDG</a> (About this course)
 
-<a href="https://edube.org/study/jse1"><img src="./images/jse1.png"></a>
+<img src="./images/jse1.png">
 
 <p>This course is the first in a 2-course series – it will prepare you for the <a href="https://edube.org/study/jse1">JSE – Certified Entry-Level JavaScript Programmer</a> certification exam (JSE-40-01).</p>
 
@@ -24,12 +24,12 @@ The main goal of the course is to guide you from a state of complete programming
 
 ## Running simple scripts with <a href="https://nodejs.org/en">Node.js</a>
 
-<a href="https://nodejs.org/en"><img src="./images/nodejs.png"></a>
+<img src="./images/nodejs.png">
 
 ## Local Web Server with Live Server (<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Extension VSCode/VSCodium</a>)
 
-<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="./images/live_server.png"></a>
+<img src="./images/live_server.png">
 
 ### <a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"><img src="./images/firefox.png"></a>
+<img src="./images/firefox.png">
