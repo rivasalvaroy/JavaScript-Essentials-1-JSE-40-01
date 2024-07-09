@@ -4,7 +4,7 @@ Examples and exercises from the JavaScript Essentials 1 course (Edube Interactiv
 
 ## <a href="https://edube.org/study/jse1">OPENEDG</a> (About this course)
 
-<a href="https://edube.org/study/jse1"><img src=https://edube.org/uploads/media/default/0001/02/eba35049df2d514748fe05d6c853c4e076a082f3.png"></a>
+<a href="https://edube.org/study/jse1"><img src="https://edube.org/uploads/media/default/0001/02/eba35049df2d514748fe05d6c853c4e076a082f3.png" alt="JavaScript Essentials 1"></a>
 
 <p>This course is the first in a 2-course series – it will prepare you for the <a href="https://edube.org/study/jse1">JSE – Certified Entry-Level JavaScript Programmer</a> certification exam (JSE-40-01).</p>
 
@@ -21,4 +21,3 @@ The main goal of the course is to guide you from a state of complete programming
 | **05** | **Functions**                                           | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_05/examples">Examples</a>      | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_05/challenges">Exercises</a> |
 | **06** | **Errors, exceptions, debugging, and troubleshooting**  | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_06/examples">Examples</a>      | <a href="https://github.com/rivasalvaroy/JavaScript-Essentials-1-JSE-40-01/tree/main/module_06/challenges">Exercises</a> |
 |        |
-
